@@ -5,9 +5,9 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'nextjs-14-blog',
+  title: 'DevBlock',
 
-  projectId: 'sw0fgp2s',
+  projectId: 'eicpgrzh',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
