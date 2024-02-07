@@ -9,7 +9,6 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'Aspiring Entrepreneur Guide: Tips & Strategies | DevBlock',
   description: 'DevBlock offers essential tips, strategies, and market insights for aspiring entrepreneurs. Empower your startup journey with our expert guidance',
-  canonical: 'https://www.devblock.pro/', // Added canonical URL
   viewport: 'width=device-width, initial-scale=1', // Added viewport for responsive design
   openGraph: {
     title: 'Aspiring Entrepreneur Guide: Tips & Strategies',
